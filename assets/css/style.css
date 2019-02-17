@@ -1,0 +1,15 @@
+
+.mainBody {
+    width: 970px;
+    margin: auto;
+    display: flex;
+}
+
+body {
+    display: flex;
+}
+
+.answerContainer {
+    margin: auto;
+}
+
